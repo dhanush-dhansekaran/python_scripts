@@ -1,0 +1,15 @@
+{
+	"Girls": 	[
+					{"name": "Ashwita", "age": 23, "place": "Bangalore"}, 
+					{"name": "Priya", "age": 28, "place": "Bangalore"}, 
+					{"name": "Veena", "age": 27, "place": "Mumbai"},
+					{"name": "manjula", "age": 26, "place": "Bangalore"}
+				], 
+	
+	"Boys": 	[
+					{"name": "Ashish", "age": 27, "place": "Mumbai"}, 
+					{"name": "Sridhar", "age": 24, "place": "Bangalore"}, 
+					{"name": "Jayaram", "age": 33, "place": "Bangalore"}
+				]
+
+}

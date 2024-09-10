@@ -1,0 +1,29 @@
+{
+
+	"PROD"	:	{
+					"USER"		:	"sandy",
+					"PASSWORD"	:	"San@123",
+					"PORT"		:	25,
+					"SCHEMA"	:	"PROD123",
+					"IP"		:	"10.123.143.98"
+				},
+
+
+	"TEST"	:	{
+					"USER"		:	"santest",
+					"PASSWORD"	:	"Santest@123",
+					"PORT"		:	25,
+					"SCHEMA"	:	"TEST123",
+					"IP"		:	"10.12.54.33"
+				},
+
+	"DEV"	:	{
+					"USER"		:	"sandydev",
+					"PASSWORD"	:	"Sandev@123",
+					"PORT"		:	25,
+					"SCHEMA"	:	"DEV123",
+					"IP"		:	"2.45.78.16"
+				}
+
+
+}

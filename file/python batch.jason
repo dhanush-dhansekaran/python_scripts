@@ -1,0 +1,36 @@
+{
+   "Boys":[
+      {
+         "name":"venkatesh",
+         "age":25,
+         "place":"chennai"
+      },
+      {
+         "name":"Makarand",
+         "age":24,
+         "place":"Mumbai"
+      },
+      {
+         "name":"Sreenivas",
+         "age":26,
+         "place":"Bangalore"
+      },
+      {
+         "name":"Jayaram",
+         "age":22,
+         "place":"Hyderabad"
+      },
+      {
+         "name":"Santhosh",
+         "age":28,
+         "place":"Kochi"
+      }
+   ],
+   "Girls":[
+      {
+         "name":"Navya",
+         "age":23,
+         "place":"USA"
+      }
+   ]
+}
